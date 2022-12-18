@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PowerRDZ
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on Cyber Security
+- 👀 I’m interested in Cyber Security, Programming and Web Development 
+- 🌱 I’m currently learning Pyhton
+- 💞️ I’m looking to collaborate on Cyber Security or Programming Projects
 - 📫 How to reach me ... just email me :)
 
 <!---
