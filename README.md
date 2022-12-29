@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PowerRDZ
+- 👋 Hi, I’m Grimgerde
 - 👀 I’m interested in Cyber Security, Programming and Web Development 
 - 🌱 I’m currently learning Pyhton
 - 💞️ I’m looking to collaborate on Cyber Security or Programming Projects
